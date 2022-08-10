@@ -31,6 +31,7 @@ public class Basic_Test_Scripts extends BaseClass {
 		System.out.println("1234");
 		System.out.println("12345");
 		System.out.println("123456");
+		System.out.println("123456");
 	}
 
 }
